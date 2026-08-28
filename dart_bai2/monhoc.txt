@@ -1,0 +1,5 @@
+LT#IT001#Toan cao cap#3#7.5#8.0
+TH#IT002#Mang may tinh#3#8.0#7.0#8.5
+DA#IT003#Do an he dieu hanh#4#8.5#9.0
+LT#IT004#Triet hoc#2#6.0#6.5
+TH#IT005#Co so du lieu#3#9.0#8.5#9.0
